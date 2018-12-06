@@ -5,7 +5,7 @@
 import requests, json
 
 #enter the api key
-api_key = "m6vhuffq8k"
+api_key = "<your_api_key>"
 
 #base_url variable to store url
 base_url = "https://api.railwayapi.com/v2/pnr-status/pnr/"
