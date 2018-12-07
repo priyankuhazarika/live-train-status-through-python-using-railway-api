@@ -4,7 +4,7 @@
 import requests, json
 
 #enter the api key
-api_key = "m6vhuffq8k"
+api_key = "<your api key>"
 
 #base url variable to store the url
 base_url = "https://api.railwayapi.com/v2/check-seat/train/"
