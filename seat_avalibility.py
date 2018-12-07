@@ -1,4 +1,4 @@
-#Python program to find train fares
+#Python program to check availability of seats of a particular train
 #using RAILWAY API
 
 import requests, json
