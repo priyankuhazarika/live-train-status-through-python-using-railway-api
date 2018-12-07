@@ -1,4 +1,4 @@
-#Python program to find live train
+#Python program to check pnr 
 #status sing RAILWAY API
 
 #import required modules
